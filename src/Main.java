@@ -4,6 +4,7 @@ public class Main {
 
         System.out.println("Hello World!");
         System.out.println("second commit");
+        System.out.println("Changes on GitHub");
         System.out.println("Changes on IDE Intellij Idea");
     }
 }
